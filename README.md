@@ -16,7 +16,7 @@ Adnan A. AbuMuammar,  Computer Engineer, and BackEnd developer, who builds Perfe
 | class-03 | [link](https://amuammer.github.io/reading-notes/class-03) |
 | class-04 | [link](https://amuammer.github.io/reading-notes/class-04) |
 | class-05 | [link](https://amuammer.github.io/reading-notes/class-05) |
-| day6 | [link](#) |
+| class-06 | [link](https://amuammer.github.io/reading-notes/class-06) |
 | day7 | [link](#) |
 | day8 | [link](#) |
 | day9 | [link](#) |
