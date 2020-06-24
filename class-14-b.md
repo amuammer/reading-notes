@@ -1,4 +1,4 @@
-# Buld the Perfect Team
+# Build the Perfect Team
 
 - **our data-saturated age** <br/>
 We’re living through a golden age of understanding personal productivity,
