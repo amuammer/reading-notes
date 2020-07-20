@@ -29,3 +29,4 @@ Adnan A. AbuMuammar,  Computer Engineer, and BackEnd developer, who builds Perfe
 | day15 | [link](#) |
 | 301-read01 | [link](https://amuammer.github.io/reading-notes/301-read01) |
 | 301-read02 | [link](https://amuammer.github.io/reading-notes/301-read02) |
+| 301-read03 | [link](https://amuammer.github.io/reading-notes/301-read03) |
