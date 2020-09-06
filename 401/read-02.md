@@ -78,3 +78,4 @@ class Square extends Polygon {
     this.width = newLength;
   }
 }
+```
