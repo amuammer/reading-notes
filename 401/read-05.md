@@ -8,7 +8,7 @@ Linked List - A data structure that contains nodes that links/points to the next
 <br/>
 `Circular` its another shape of singly but the next of tail is the head
 
-### Elements of linked linst
+### Elements of linked list
 `Node` : the individual items/links that live in a linked list. Each node contains the data for each link.
 <br/>
 `Next` : Each node contains a property called Next. This property contains the reference to the next node.
