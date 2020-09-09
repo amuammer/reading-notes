@@ -4,6 +4,7 @@ Repository pattern separates the data access logic and maps it to the business e
 <img src="https://cubettech.com/wp-content/uploads/2015/07/Reposiory-Design-Pattern.png" />
 
 
+
 ### Document the following Vocabulary Terms
 
 `database`: is a collection of data
