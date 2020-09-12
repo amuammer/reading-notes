@@ -11,6 +11,10 @@
 **Object Relation Mapping (ORM)**
  is a code library that automates the transfer of data stored in relational database tables into objects that are more commonly used in application code.
 
+###  What Is OpenAPI?
+
+ OpenAPI Specification (formerly Swagger Specification) is an API description format for REST APIs. An OpenAPI file allows you to describe your entire API
+
 ### RESTful API
 API is an application program interface (API) that uses HTTP requests to GET, PUT, POST and DELETE to manage resources.
 
