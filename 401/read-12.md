@@ -12,4 +12,4 @@ Before going in to details, there are some words that you have to know.
 <br/>
 **Resource server**: The place where the actual resources are stored.
 <br/>
-**Authorization server**: The place that you use to authenticate yoursel
+**Authorization server**: The place that you use to authenticate yourself
