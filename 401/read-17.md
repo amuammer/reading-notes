@@ -12,10 +12,8 @@ TCP (Transmission Control Protocol) is a standard that defines how to establish 
 ## TCP handshaking
 <img src="https://s3.ap-south-1.amazonaws.com/afteracademy-server-uploads/what-is-a-tcp-3-way-handshake-process-three-way-handshaking-establishing-connection-6a724e77ba96e241.jpg" />
 
-
 ## TCP vs UDP
 TCP and UDP have many differences and similarities. They are the most commonly used protocols for sending packets over the internet. They both work on the transport layer of the TCP/IP protocol stack and both use the IP protocol.
-
 
 ### Connection and connectionless
 TCP is a connection-oriented protocol and UDP is a connection-less protocol. TCP establishes a connection between a sender and receiver before data can be sent. UDP does not establish a connection before sending data.
