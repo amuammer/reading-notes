@@ -7,7 +7,6 @@ RBAC is nothing more than the idea of assigning system access to users based on 
 ### Benefits of RBAC?
 With the proper implementation of RBAC, the assignment of access rights becomes systematic and repeatable. Further, it is much easier to audit user rights, and to correct any issues identified.
 
-
 #### RBAC vs. ABAC vs. ACL
 There are some alternatives for/variations of RBAC, including:
 
