@@ -1,3 +1,6 @@
+# React life-cylces
+<img src="https://camo.githubusercontent.com/af0801a9103f790cbdca1bee20df1f8055e36a33/68747470733a2f2f63646e2d696d616765732d312e6d656469756d2e636f6d2f6d61782f323030302f312a736e2d66746f7770305f565652626555414645434d412e706e67">
+
 # Higher-Order Components
 
 You may have used higher-order components, or HOCs, already. Redux’s `connect` function, for example, is a function that returns a HOC. But what exactly is a HOC?
