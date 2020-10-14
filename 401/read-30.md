@@ -15,6 +15,7 @@ A hashtable traditionally is created from an array. I always like the size 1024.
 4. divided by the total size of the array.
 5. Insert into the array at that index.
 
+
 ```
 Key = "Cat"
 Value = "Josie"
