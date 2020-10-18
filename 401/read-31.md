@@ -18,5 +18,6 @@ function Example() {
 }
 ```
 
+
 ### Effect Hook
 The Effect Hook, `useEffect`, adds the ability to perform side effects from a function component. It serves the `same purpose` as `componentDidMount, componentDidUpdate, and componentWillUnmount` in React classes, but unified into a single API. (We’ll show examples comparing useEffect to these methods in Using the Effect Hook.)
