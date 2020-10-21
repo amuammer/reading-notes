@@ -18,6 +18,13 @@ In graphs, there are no rules dictating the connection among the nodes. A graph 
 <img src="https://miro.medium.com/max/700/1*-yHATwTlY2hwceJ93-D-cw.jpeg" />
 
 
+### Undirected Vs Directed
+`Directed Graph` → A graph with only directed edges (Like a 1-way street).
+
+`Undirected Graph` → A graph with undirected edges (Like a 2-way street).
+
+<img src="https://www.researchgate.net/profile/Debojoti_Kuzur/publication/282653028/figure/fig2/AS:282176378687493@1444287499817/Directed-and-Undirected-graph-Ref-7.png" >
+
 ### Real World Uses of Graphs
 
 * GPS and Mapping
