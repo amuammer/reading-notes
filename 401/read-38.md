@@ -45,7 +45,7 @@ export const addTodo = ({ title, userId }) => {
 ```javascript
 import axios from 'axios';
 
-export const addTodo = ({ title, userId }) =>
+const addTodoAPI = ({ title, userId }) =>
   return new Promise((resolve,reject) => {
     axios
       .post(`https://jsonplaceholder.typicode.com/todos`, {
@@ -54,12 +54,19 @@ export const addTodo = ({ title, userId }) =>
         completed: false
       })
       .then(res => {
-        resolve(res.data);
+        resolve(res);
       })
       .catch(err => {
-        reject(new Error(err.message));
+        reject(err);
       });
   };
-```
 
-.
+export const addTodo = ({ title, userId }) => {
+  addTodoAPI({ title, userId })
+  .then((res) => {
+    dispatch(addTodoSuccess(res.data));
+  }).catch((err) => {
+    dispatch(addTodoFailure(err.message));
+  })
+}  
+```
